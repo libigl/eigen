@@ -43,4 +43,5 @@ void test_commainitializer()
         4, 5, 6,
         vec[2].transpose();
   VERIFY_IS_APPROX(m3, ref);
+
 }
